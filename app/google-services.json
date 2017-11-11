@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "764475609183",
+    "firebase_url": "https://senalestransito-44bcf.firebaseio.com",
+    "project_id": "senalestransito-44bcf",
+    "storage_bucket": "senalestransito-44bcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764475609183:android:b1800b7c2e12aa53",
+        "android_client_info": {
+          "package_name": "com.i015114.finalandroid_senales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764475609183-qr9o52scf01dslvf5llhr8t6e6a55j0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCM7D5f6Aozx5M-opoCPpK30knohW0rzc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
